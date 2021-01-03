@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<pmd xmlns="http://pmd.sourceforge.net/report/2.0.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://pmd.sourceforge.net/report/2.0.0 http://pmd.sourceforge.net/report_2_0_0.xsd"
+    version="6.13.0" timestamp="2021-01-02T17:36:14.561">
+<file name="C:\Activite2\Exercice3\src\main\java\Grille.java">
+<violation beginline="16" endline="16" begincolumn="24" endcolumn="31" rule="VariableNamingConventions" ruleset="Code Style" package="main.java" class="Grille" variable="possible" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#variablenamingconventions" priority="1">
+Variables that are final and static should be all capitals, 'possible' is not all capitals.
+</violation>
+<violation beginline="36" endline="36" begincolumn="29" endcolumn="29" rule="ShortVariable" ruleset="Code Style" package="main.java" class="Grille" method="setValue" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="36" endline="36" begincolumn="36" endcolumn="36" rule="ShortVariable" ruleset="Code Style" package="main.java" class="Grille" method="setValue" variable="y" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like y
+</violation>
+<violation beginline="46" endline="46" begincolumn="29" endcolumn="29" rule="ShortVariable" ruleset="Code Style" package="main.java" class="Grille" method="getValue" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="46" endline="46" begincolumn="36" endcolumn="36" rule="ShortVariable" ruleset="Code Style" package="main.java" class="Grille" method="getValue" variable="y" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like y
+</violation>
+<violation beginline="67" endline="67" begincolumn="32" endcolumn="32" rule="ShortVariable" ruleset="Code Style" package="main.java" class="Grille" method="possible" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="67" endline="67" begincolumn="39" endcolumn="39" rule="ShortVariable" ruleset="Code Style" package="main.java" class="Grille" method="possible" variable="y" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like y
+</violation>
+</file>
+<file name="C:\Activite2\Exercice3\src\main\java\GrilleImpl.java">
+<violation beginline="40" endline="40" begincolumn="40" endcolumn="40" rule="ShortVariable" ruleset="Code Style" package="main.java" class="GrilleImpl" method="setValue" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="40" endline="40" begincolumn="53" endcolumn="53" rule="ShortVariable" ruleset="Code Style" package="main.java" class="GrilleImpl" method="setValue" variable="y" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like y
+</violation>
+<violation beginline="67" endline="67" begincolumn="40" endcolumn="40" rule="ShortVariable" ruleset="Code Style" package="main.java" class="GrilleImpl" method="getValue" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="67" endline="67" begincolumn="53" endcolumn="53" rule="ShortVariable" ruleset="Code Style" package="main.java" class="GrilleImpl" method="getValue" variable="y" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like y
+</violation>
+<violation beginline="89" endline="89" begincolumn="43" endcolumn="43" rule="ShortVariable" ruleset="Code Style" package="main.java" class="GrilleImpl" method="possible" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="89" endline="89" begincolumn="56" endcolumn="56" rule="ShortVariable" ruleset="Code Style" package="main.java" class="GrilleImpl" method="possible" variable="y" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like y
+</violation>
+<violation beginline="115" endline="115" begincolumn="47" endcolumn="47" rule="ShortVariable" ruleset="Code Style" package="main.java" class="GrilleImpl" method="calculRegion" variable="x" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like x
+</violation>
+<violation beginline="115" endline="115" begincolumn="60" endcolumn="60" rule="ShortVariable" ruleset="Code Style" package="main.java" class="GrilleImpl" method="calculRegion" variable="y" externalInfoUrl="https://pmd.github.io/pmd-6.13.0/pmd_rules_java_codestyle.html#shortvariable" priority="3">
+Avoid variables with short names like y
+</violation>
+</file>
+</pmd>

@@ -1,0 +1,1 @@
+find ~/.m2/ -name "*.lastupdated" | xargs rm
